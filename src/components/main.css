@@ -1,0 +1,13 @@
+.navbar{
+    background: linear-gradient(to top,#02aab0 , #00cdac);
+    font-weight: 900;
+    font-family: 'Bruno Ace', cursive;
+}
+h1{
+    font-family: 'Racing Sans One', cursive;
+    color: rgb(37, 37, 164);
+    font-style: 2rem;
+}
+tr{
+    background:linear-gradient(to right,#ffa8c0 , #f4e2d8);
+}
